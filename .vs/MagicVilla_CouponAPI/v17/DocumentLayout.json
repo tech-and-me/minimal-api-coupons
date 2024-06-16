@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\5218\\OneDrive - Dialog Pty Ltd\\Workspace\\LEARNING\\DotNet\\MagicVilla_CouponAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70635314-5AD5-4EF5-B426-1530DEADA3FB}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\5218\\onedrive - dialog pty ltd\\workspace\\learning\\dotnet\\magicvilla_couponapi\\magicvilla_couponapi\\endpoints\\couponendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70635314-5AD5-4EF5-B426-1530DEADA3FB}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\endpoints\\couponendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70635314-5AD5-4EF5-B426-1530DEADA3FB}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\5218\\onedrive - dialog pty ltd\\workspace\\learning\\dotnet\\magicvilla_couponapi\\magicvilla_couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70635314-5AD5-4EF5-B426-1530DEADA3FB}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CouponEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\5218\\OneDrive - Dialog Pty Ltd\\Workspace\\LEARNING\\DotNet\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\Endpoints\\CouponEndpoints.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Endpoints\\CouponEndpoints.cs",
+              "ToolTip": "C:\\Users\\5218\\OneDrive - Dialog Pty Ltd\\Workspace\\LEARNING\\DotNet\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\Endpoints\\CouponEndpoints.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Endpoints\\CouponEndpoints.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:39:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\5218\\OneDrive - Dialog Pty Ltd\\Workspace\\LEARNING\\DotNet\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\Program.cs",
               "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Program.cs",
               "ToolTip": "C:\\Users\\5218\\OneDrive - Dialog Pty Ltd\\Workspace\\LEARNING\\DotNet\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\Program.cs",
               "RelativeToolTip": "MagicVilla_CouponAPI\\Program.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAqwEYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T05:33:23.302Z",
               "EditorCaption": ""

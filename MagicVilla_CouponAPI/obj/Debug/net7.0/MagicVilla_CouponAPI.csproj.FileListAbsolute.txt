@@ -158,3 +158,4 @@ C:\Users\5218\OneDrive - Dialog Pty Ltd\Workspace\LEARNING\DotNet\MagicVilla_Cou
 C:\Users\5218\OneDrive - Dialog Pty Ltd\Workspace\LEARNING\DotNet\MagicVilla_CouponAPI\MagicVilla_CouponAPI\obj\Debug\net7.0\MagicVilla_CouponAPI.pdb
 C:\Users\5218\OneDrive - Dialog Pty Ltd\Workspace\LEARNING\DotNet\MagicVilla_CouponAPI\MagicVilla_CouponAPI\obj\Debug\net7.0\MagicVilla_CouponAPI.genruntimeconfig.cache
 C:\Users\5218\OneDrive - Dialog Pty Ltd\Workspace\LEARNING\DotNet\MagicVilla_CouponAPI\MagicVilla_CouponAPI\obj\Debug\net7.0\ref\MagicVilla_CouponAPI.dll
+C:\Users\5218\OneDrive - Dialog Pty Ltd\Workspace\LEARNING\DotNet\MagicVilla_CouponAPI\MagicVilla_CouponAPI\obj\Debug\net7.0\MagicVilla_CouponAPI.sourcelink.json
